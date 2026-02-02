@@ -192,6 +192,7 @@
     7. Ajax Contact Form And Appointment
   --------------------------------------------------------------*/
   // Contact Form
+  
   function formValidation() {
     if ($.exists('#contact-form #submit')) {
       $('#st-alert').hide();
@@ -244,6 +245,7 @@
       });
     }
   }
+
 
 
   /*--------------------------------------------------------------
